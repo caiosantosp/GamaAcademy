@@ -1,0 +1,16 @@
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\bin\Debug\net5.0\first_console_app.exe
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\bin\Debug\net5.0\first_console_app.deps.json
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\bin\Debug\net5.0\first_console_app.runtimeconfig.json
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\bin\Debug\net5.0\first_console_app.runtimeconfig.dev.json
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\bin\Debug\net5.0\first_console_app.dll
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\bin\Debug\net5.0\ref\first_console_app.dll
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\bin\Debug\net5.0\first_console_app.pdb
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\obj\Debug\net5.0\first_console_app.csproj.AssemblyReference.cache
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\obj\Debug\net5.0\first_console_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\obj\Debug\net5.0\first_console_app.AssemblyInfoInputs.cache
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\obj\Debug\net5.0\first_console_app.AssemblyInfo.cs
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\obj\Debug\net5.0\first_console_app.csproj.CoreCompileInputs.cache
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\obj\Debug\net5.0\first_console_app.dll
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\obj\Debug\net5.0\ref\first_console_app.dll
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\obj\Debug\net5.0\first_console_app.pdb
+C:\Users\Caio Santos\Desktop\Aula\first_console_app\obj\Debug\net5.0\first_console_app.genruntimeconfig.cache

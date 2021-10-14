@@ -1,0 +1,36 @@
+body{
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+}
+#logo_image{
+    width: 30vh;
+    height: 30vh;
+    display: block;
+}
+.pokemon{
+    color: white;
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    background-color: rgb(36, 84, 173);
+    text-align: center;
+}
+#pokemon_picture_front{
+    border-width: 1px;
+    border-color: rgb(255, 255, 255);
+    border-style:solid;
+    width: 100%;
+}
+.form_div{
+    background-color: brown;
+    width: 50vw;
+    height: 30vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
