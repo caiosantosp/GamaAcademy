@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Caio Santos\\Desktop\\Aula\\calculadora\\calculadora_console\\calculadora_console.csproj",
+      "projectUniqueName": "C:\\Users\\Caio Santos\\Desktop\\Gama Academy\\GamaAcademy\\Calculadora_Console\\calculadora_console\\calculadora_console.csproj",
       "projectName": "calculadora_console",
-      "projectPath": "C:\\Users\\Caio Santos\\Desktop\\Aula\\calculadora\\calculadora_console\\calculadora_console.csproj",
+      "projectPath": "C:\\Users\\Caio Santos\\Desktop\\Gama Academy\\GamaAcademy\\Calculadora_Console\\calculadora_console\\calculadora_console.csproj",
       "packagesPath": "C:\\Users\\Caio Santos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Caio Santos\\Desktop\\Aula\\calculadora\\calculadora_console\\obj\\",
+      "outputPath": "C:\\Users\\Caio Santos\\Desktop\\Gama Academy\\GamaAcademy\\Calculadora_Console\\calculadora_console\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Caio Santos\\AppData\\Roaming\\NuGet\\NuGet.Config",

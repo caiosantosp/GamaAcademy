@@ -14,3 +14,19 @@ C:\Users\Caio Santos\Desktop\Aula\calculadora\calculadora_console\obj\Debug\net5
 C:\Users\Caio Santos\Desktop\Aula\calculadora\calculadora_console\obj\Debug\net5.0\ref\calculadora_console.dll
 C:\Users\Caio Santos\Desktop\Aula\calculadora\calculadora_console\obj\Debug\net5.0\calculadora_console.pdb
 C:\Users\Caio Santos\Desktop\Aula\calculadora\calculadora_console\obj\Debug\net5.0\calculadora_console.genruntimeconfig.cache
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\bin\Debug\net5.0\calculadora_console.exe
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\bin\Debug\net5.0\calculadora_console.deps.json
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\bin\Debug\net5.0\calculadora_console.runtimeconfig.json
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\bin\Debug\net5.0\calculadora_console.runtimeconfig.dev.json
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\bin\Debug\net5.0\calculadora_console.dll
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\bin\Debug\net5.0\ref\calculadora_console.dll
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\bin\Debug\net5.0\calculadora_console.pdb
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\obj\Debug\net5.0\calculadora_console.csproj.AssemblyReference.cache
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\obj\Debug\net5.0\calculadora_console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\obj\Debug\net5.0\calculadora_console.AssemblyInfoInputs.cache
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\obj\Debug\net5.0\calculadora_console.AssemblyInfo.cs
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\obj\Debug\net5.0\calculadora_console.csproj.CoreCompileInputs.cache
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\obj\Debug\net5.0\calculadora_console.dll
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\obj\Debug\net5.0\ref\calculadora_console.dll
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\obj\Debug\net5.0\calculadora_console.pdb
+C:\Users\Caio Santos\Desktop\Gama Academy\GamaAcademy\Calculadora_Console\calculadora_console\obj\Debug\net5.0\calculadora_console.genruntimeconfig.cache
